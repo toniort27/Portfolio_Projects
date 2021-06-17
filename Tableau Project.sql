@@ -1,5 +1,5 @@
 /*
-Queries I used for my Tableau Skills Project
+A couple of queries I used for my Tableau Skills Project
 */
 
 
